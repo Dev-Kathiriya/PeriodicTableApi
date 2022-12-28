@@ -1,6 +1,10 @@
 Title: “Periodic Table Json”
-Author: “Nucular and  Bowserinator“—with a link to their profile page
+
+Author: “ Nucular" -> 'https://github.com/nucular',
+
+        "Bowserinator“ -> 'https://github.com/Bowserinator'
 Source: https://github.com/Bowserinator/Periodic-Table-JSON
+
 License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
 
 ## [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0)
